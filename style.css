@@ -10,7 +10,7 @@ body {
   display: flex;
   gap: 2rem;
   padding: 2rem;
-  height: 94.5vh;
+  height: 94vh;
   box-sizing: border-box;
   overflow: hidden;
 }
